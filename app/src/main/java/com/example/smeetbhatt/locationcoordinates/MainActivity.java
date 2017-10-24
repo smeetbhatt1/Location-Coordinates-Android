@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 longitudeTextView.setText(String.valueOf(longi));
 
             }else{
-                Toast.makeText(this,"Unble to Trace your location",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this,"Uanble to Trace your location",Toast.LENGTH_SHORT).show();
             }
         }
     }
